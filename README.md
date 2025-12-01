@@ -99,7 +99,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Author
 
 **Your Name**
-- GitHub: [@deceptiveneeraj](https://github.com/deceptiveneeraj)
+- GitHub: [Neeraj Solanki](https://github.com/deceptiveneeraj)
 
 ## Acknowledgments
 
