@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quick List</title>
+
+    <!-- Standard favicon -->
+    <link rel="icon" type="image/png" href="./assets/img/logo.png">
+
+    <!-- For iPhone/iPad -->
+    <link rel="apple-touch-icon" href="./assets/img/logo.png">
+
+    <!-- For Android & Progressive Web Apps -->
+    <link rel="manifest" href="./manifest.json">
+
+    <!-- Optional: Shortcut icon fallback -->
+    <link rel="shortcut icon" href="./assets/img/logo.png">
+
+    <link rel="stylesheet" href="./assets/css/style.css">
+
+</head>
+
+<body>
+    <nav>
+        <ul>
+            <li><a href="#"><img src="./assets/img/logo.png" alt="Logo"></a>Quick List</li>
+            <li><a href="#">Home</a></li>
+        </ul>
+    </nav>
+    <main class="container">
+        <h1>Quick List</h1>
+        <div class="input-section">
+            <input type="text" id="taskInput" placeholder="New Task Here..." autofocus>
+            <button id="addTaskBtn" onclick="Add()">Add</button>
+        </div>
+
+        <ul id="taskList">
+            <!-- New Tasks Are Here Shown -->
+            <!-- <li>
+                <input type="checkbox">
+                <span>Example Task 1</span>
+                <button class="delete-btn">Delete</button>
+            </li>
+            <li>
+                <input type="checkbox">
+                <span>Example Task 2</span>
+                <button class="delete-btn">Delete</button>
+            </li> -->
+        </ul>
+    </main>
+    <script src="./assets/js/main.js"></script>
+</body>
+
+</html>
