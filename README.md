@@ -17,7 +17,7 @@ A simple, elegant, and responsive todo list application built with vanilla JavaS
 
 ## Demo
 
-Visit the live application: [Shyne Cast](https://deceptiveneeraj.github.io/quicklist/)
+Visit the live application: [Quick List](https://deceptiveneeraj.github.io/quicklist/)
 
 ## Installation
 
